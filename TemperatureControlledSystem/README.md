@@ -1,4 +1,4 @@
-# In this Folder, problem statement for temperature controlled system is solved.
+# In this directory, problem statement for temperature controlled system is solved.
 
 ### Req:
 ### 1. When Temperature > 25 continuously for 5 seconds, Turn ON the Heater
